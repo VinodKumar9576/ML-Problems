@@ -26,3 +26,12 @@ kind of downloading coz i need not to store the data in **Google Drive**, which 
 of 15 GB.<br>
 If you are not aware of how to dowload the API key for kaggle, follow the below link.<br>
 https://medium.com/@yvettewu.dw/tutorial-kaggle-api-google-colaboratory-1a054a382de0
+<br>
+Data set files in the entire project is stored in the form of **parquet file** with **gzip** compression. Again for same reason, to save the storage space i'm using this fileformat.
+You can use any other format other than csv, as csv doesn't come in handy when a very large data like 2 - 4 GB data file, takes more time and disk space. To know more about different fileformats explore
+the below link. <br>
+https://luminousmen.com/post/big-data-file-formats
+<br>
+
+## Miscellaneous
+I used many libraries which i often use in all of my works that eases our fewature engineering and feature transformation process when dealing with large datasets.
