@@ -34,4 +34,4 @@ https://luminousmen.com/post/big-data-file-formats
 <br>
 
 ## Miscellaneous
-I used many libraries which i often use in all of my works that eases our fewature engineering and feature transformation process when dealing with large datasets.
+I used many libraries which i often use in all of my works that eases our feature engineering and feature transformation process when dealing with large datasets.
