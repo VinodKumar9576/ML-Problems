@@ -4,6 +4,8 @@ raw format and it needs most data cleaning and feature engineering.
 Many features contain data that is in categorical format and in each feature within the cell there are 
 more than two categorical values. For example, see the below screenshot to understand what i mean.
 
+Link for the competition is given below:
+https://www.kaggle.com/c/tmdb-box-office-prediction/overview
 ### Things we can learn from this problem
 * Data cleaning
 * Feature engineering
