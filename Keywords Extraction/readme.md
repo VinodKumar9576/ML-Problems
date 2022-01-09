@@ -14,3 +14,4 @@ Techniques used for this problem in this notebook:
 * Using Gensim model
 
 Please look at the flow-chart provided below to get the idea of implementation.
+![ezcv logo](https://github.com/VinodKumar9576/ML-Problems/blob/master/Keywords%20Extraction/Keyword%20Extraction.png)
